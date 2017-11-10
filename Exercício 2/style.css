@@ -1,0 +1,175 @@
+	div.boletim {
+		background-color:#000000;
+		line-height: 30px;
+		width: 1016px;
+		height: 60px;
+		position:relative;
+		float:left;
+		margin:2px;
+		padding:5px;
+		border-width:2px;
+		border-color:grey;
+		}
+		
+	div.botoes {
+		background-color:#F7F4F4;
+		line-height: 30px;
+		width: 1016px;
+		height: 50px;
+		position:relative;
+		float:left;
+		margin:2px;
+		padding:5px;
+		border-style:dashed;
+		border-width:0.5px;
+		border-color:grey;
+		}
+		
+	div.nlp {
+		width: 164px;
+		height: 154px;
+		position:relative;
+		float:left;
+		margin:2px;
+		}
+		
+	div.d {
+		width: 164px;
+		height:280 px;
+		position:relative;
+		float:left;
+		margin:2px;
+		border-width:0.5px;
+		border-color:grey;
+		}
+	
+	div.info {
+		width: 900px;
+		height:170px;
+		position:relative;
+		float:left;
+		margin:2px;	
+		border-color:red;	
+		border-bottom-width:2px;
+		}
+	
+	div.c1 {
+		width: 428px;
+		height: 165px;
+		margin:auto;
+		position:relative;
+		float:left;
+		margin:2px;
+
+		
+		
+		}
+		
+	div.c2 {
+		width: 428px;
+		height: 165px;
+		margin:auto;
+		position:relative;
+		float:left;
+		margin:2px;
+
+		
+		
+		}
+		
+	div.o1 {
+		width: 428px;
+		height: 66px;
+		margin:auto;
+		position:relative;
+		float:left;
+		margin:2px;		
+		}
+		
+	div.o2 {
+		width: 428px;
+		height: 66px;
+		margin:auto;
+		position:relative;
+		float:left;
+		margin:2px;
+
+		}
+		
+		span.nlp{
+		background-color:#000000;
+		border-style:dashed;
+		width:158px;
+		height:52 px;
+		border-bottom:0.5px;
+		border-color:grey;
+		position:relative;
+		float:left;
+		color:white;
+		text-align:center;
+		line-height:52px;
+		font-weight: bold;
+	}
+	
+		span.dados{
+		background-color:#FFFFFF;
+		border-style:dashed;
+		border-bottom:0.5px;
+		width:856px;
+		height:50px;
+		border-bottom:0.5px;
+		border-color:grey;
+		position:relative;
+		float:left;
+		line-height:50px;
+	}
+		span.d{
+		background-color:#000000;
+		width:158px;
+		height:230px;
+		border-bottom:0.5px;
+		border-color:grey;
+		position:relative;
+		float:left;
+		color: white;
+		text-align:center;
+		line-height:230px;
+		font-weight: bold;
+	}	
+		input[type=text] {
+		padding: 10px;
+		display: block;
+		width: 100%;
+		line-height:20px;   
+	}
+		input[type=password] {
+		padding: 10px;
+		display: block;
+		width: 100%;
+		line-height:20px;
+    
+	}
+
+		input[type=checkbox] {
+		padding: 10px;
+		line-height:20px;
+		font-size: 2px;
+	
+    
+	}
+	
+		input[type=Submit] {
+		padding: 10px;
+		display: block;
+		width: 25%;
+		line-height:20px;
+	
+    
+	}
+	
+        .footer {
+            /*background-color: yellowgreen;*/
+            height: 40px;
+            clear: both;
+			border-top: dotted 1px
+        }
