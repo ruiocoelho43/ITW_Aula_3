@@ -1,0 +1,42 @@
+		* {
+  			font-family: 'Slabo 27px', serif; 
+		}
+				
+        .topo {
+            /*background-color: red;*/
+            height: 380px;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-image:url("heroes.png");
+        }
+
+        .menuLateral {
+            /*background-color: greenyellow;*/
+            height: 200px;
+            width: 20%;
+            float: left;
+        }
+
+        .conteudo {
+            /*background-color: blueviolet;*/
+            min-height: 200px;
+            width: 80%;
+            float: left;
+        }
+		
+		.localizacao {
+            line-height: 30px; /*background-color: aliceblue;*/
+            border-bottom: dotted 1px;
+        }
+
+        .footer {
+            /*background-color: yellowgreen;*/
+            height: 40px;
+            clear: both;
+			border-top: dotted 1px
+        }
+
+        .moldura {
+            width: 960px;
+            margin: auto;
+        }
